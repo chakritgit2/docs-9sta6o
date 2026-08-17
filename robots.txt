@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-cu2hl1.indocuan-win.sbs/sitemap.xml
